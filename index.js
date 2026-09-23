@@ -1,5 +1,5 @@
-import { sleep } from "./helpers/util.js";
-import { SortingAlgorithms } from "./helpers/sortingAlgorithms.js";
+import { sleep } from "./services/util.js";
+import { SortingAlgorithms } from "./services/sortingAlgorithms.js";
 
 let nBars = 10;
 
